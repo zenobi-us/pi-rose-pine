@@ -1,67 +1,17 @@
 # pi-rose-pine
 
-Rose Pine themes for Pi Coding Agent
+Rose Pine themes for [Pi Coding Agent](https://github.com/badlogic/pi-mono).
 
-> A Bun module created from the [bun-module](https://github.com/zenobi-us/bun-module) template
+![Rose Pine Logo](assets/rose-pine-moon.png)
 
-## Features
+> [!NOTE]
+> placeholder repo until pi-mono supports extension bundles
 
-- 🏗️ TypeScript-based module architecture
-- 🔧 Mise task runner integration
-- 📦 Bun/npm build tooling
-- ✨ ESLint + Prettier formatting
-- 🧪 Vitest testing setup
-- 🚀 GitHub Actions CI/CD
-- 📝 Release automation with release-please
+## Theme Variants Roadmap
 
-## Getting Started
-
-1. **Clone this template:**
-
-   ```bash
-   cp -r bun-module your-module-name
-   cd your-module-name
-   ```
-
-2. **Update package.json:**
-   - Change `name` to your module name
-   - Update `description`
-   - Update `repository.url`
-
-3. **Install dependencies:**
-
-   ```bash
-   bun install
-   ```
-
-4. **Implement your module in `src/index.ts`:**
-
-   ```typescript
-   export function hello(name: string): string {
-     return `Hello, ${name}!`;
-   }
-   ```
-
-5. **Test your module:**
-   ```bash
-   mise run test
-   ```
-
-## Development
-
-- `mise run build` - Build the module
-- `mise run test` - Run tests
-- `mise run lint` - Lint code
-- `mise run lint:fix` - Fix linting issues
-- `mise run format` - Format code with Prettier
-
-## Author
-
-Zenobius <airtonix@users.noreploy.github.com>
-
-## Repository
-
-git@github.com:zenobi-us/pi-rose-pine.git
+- [ ] Rose Pine (Main)
+- [x] Rose Pine Moon
+- [ ] Rose Pine Dawn
 
 ## Contributing
 
