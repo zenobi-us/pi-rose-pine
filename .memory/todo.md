@@ -2,7 +2,7 @@
 
 ## Outstanding Tasks
 
-No tasks yet. Create tasks as work begins.
+None - Research phase complete.
 
 ## Needs Human Intervention
 
