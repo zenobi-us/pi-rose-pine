@@ -2,11 +2,12 @@
 
 ## Active Tasks
 
-- 🎨 [Implement Rose Pine Main Variant](task-8a3f5c2d-implement-rose-pine-main.md) - In Progress
+None - All three Rose Pine variants complete! 🎉
 
 ## Completed
 
-- ✅ [Review Rose Pine Dawn PR](task-9f2e4b73-review-dawn-pr.md) - Approved with minor enhancements
+- ✅ [Implement Rose Pine Main Variant](task-8a3f5c2d-implement-rose-pine-main.md) - Complete (2026-01-17)
+- ✅ [Review Rose Pine Dawn PR](task-9f2e4b73-review-dawn-pr.md) - Approved with minor enhancements (2026-01-17)
 
 ## Recommendations (Optional)
 

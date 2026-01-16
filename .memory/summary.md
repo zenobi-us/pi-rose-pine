@@ -39,9 +39,10 @@ Research phase materials have been archived in `.memory/archive/`:
 - [Complete Rose Pine Theme Research](research-ff4d0949-rose-pine-theme-complete.md) - Full research data
 - [Knowledge Base](knowledge.md) - Quick reference
 
-## Current Tasks
+## Recent Completed Tasks
 
-- [Implement Rose Pine Main Variant](task-8a3f5c2d-implement-rose-pine-main.md) 🔄 In Progress
+- [Implement Rose Pine Main Variant](task-8a3f5c2d-implement-rose-pine-main.md) ✅ Complete (2026-01-17)
+- [Review Rose Pine Dawn PR](task-9f2e4b73-review-dawn-pr.md) ✅ Complete (2026-01-17)
 
 ## Recent Activity
 
@@ -54,21 +55,17 @@ Research phase materials have been archived in `.memory/archive/`:
 
 ## Implementation Status
 
-**Themes Completed:**
+**🎉 All Three Variants Complete!**
+
 - ✅ Rose Pine Moon (initial release)
 - ✅ Rose Pine Dawn (PR #2 - reviewed and approved)
-- 🔄 Rose Pine Main (implementing now)
+- ✅ Rose Pine Main (completed 2026-01-17)
 
 ## Next Steps
 
 **Immediate Options:**
 
-1. **Implement Rose Pine Main Variant** (completes the collection)
-   - Use Dawn/Moon as templates
-   - Apply official Main variant colors
-   - Derive Dark1/Light1 variants following established pattern
-
-2. **Documentation Enhancement** (optional but recommended)
+1. **Documentation Enhancement** (optional but recommended)
    - Document derived color system (Dark1/Light1)
    - Explain mapping philosophy for light vs dark themes
    - Add DESIGN.md or enhance README
