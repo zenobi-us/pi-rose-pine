@@ -7,11 +7,13 @@ Rose Pine themes for [Pi Coding Agent](https://github.com/badlogic/pi-mono).
 > [!NOTE]
 > placeholder repo until pi-mono supports extension bundles
 
-## Theme Variants Roadmap
+## Theme Variants
 
-- [ ] Rose Pine (Main)
-- [x] Rose Pine Moon
-- [x] Rose Pine Dawn
+All three official Rose Pine variants are now available:
+
+- ✅ Rose Pine (Main) - The original warm, cozy dark variant
+- ✅ Rose Pine Moon - Deeper dark variant with richer contrast  
+- ✅ Rose Pine Dawn - Light variant for bright environments
 
 ## Contributing
 
