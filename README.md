@@ -17,7 +17,18 @@ All three official Rose Pine variants are now available:
 
 ## Contributing
 
-Contributions are welcome! Please file issues or submit pull requests on the GitHub repository.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
+
+- Setting up your development environment with `mise`
+- Running tests and checks
+- Code style guidelines
+- Pull request process
+
+Quick start:
+```bash
+mise run setup    # Install dependencies
+mise run check    # Verify everything works
+```
 
 ## License
 
