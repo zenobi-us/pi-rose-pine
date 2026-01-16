@@ -41,7 +41,7 @@ Research phase materials have been archived in `.memory/archive/`:
 
 ## Current Tasks
 
-- [Review Rose Pine Dawn PR](task-9f2e4b73-review-dawn-pr.md) ✅ Complete - Approved with minor enhancements
+- [Implement Rose Pine Main Variant](task-8a3f5c2d-implement-rose-pine-main.md) 🔄 In Progress
 
 ## Recent Activity
 
@@ -57,7 +57,7 @@ Research phase materials have been archived in `.memory/archive/`:
 **Themes Completed:**
 - ✅ Rose Pine Moon (initial release)
 - ✅ Rose Pine Dawn (PR #2 - reviewed and approved)
-- ⏳ Rose Pine Main (pending)
+- 🔄 Rose Pine Main (implementing now)
 
 ## Next Steps
 

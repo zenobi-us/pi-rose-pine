@@ -2,7 +2,7 @@
 
 ## Active Tasks
 
-None - Dawn PR review complete.
+- 🎨 [Implement Rose Pine Main Variant](task-8a3f5c2d-implement-rose-pine-main.md) - In Progress
 
 ## Completed
 
@@ -12,4 +12,3 @@ None - Dawn PR review complete.
 
 - 📝 [OPTIONAL] Create documentation enhancement task for derived colors
 - 🧪 [RECOMMENDED] Create visual validation testing task
-- 🎨 [NEXT] Implement Rose Pine Main variant to complete collection
