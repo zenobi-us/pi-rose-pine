@@ -11,7 +11,7 @@ Rose Pine themes for [Pi Coding Agent](https://github.com/badlogic/pi-mono).
 
 - [ ] Rose Pine (Main)
 - [x] Rose Pine Moon
-- [ ] Rose Pine Dawn
+- [x] Rose Pine Dawn
 
 ## Contributing
 
