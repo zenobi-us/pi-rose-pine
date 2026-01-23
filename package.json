@@ -6,13 +6,6 @@
     "name": "Zenobius",
     "email": "airtonix@users.noreploy.github.com"
   },
-  "type": "module",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "default": "./dist/index.js"
-    }
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:zenobi-us/pi-rose-pine.git"
@@ -22,9 +15,17 @@
     "provenance": true
   },
   "files": [
-    "dist",
-    "src/version.ts"
+    "themes/rose-pine-dawn.json",
+    "themes/rose-pine-moon.json",
+    "themes/rose-pine-main.json"
   ],
+  "pi": {
+    "themes": [
+      "./themes/rose-pine-dawn.json",
+      "./themes/rose-pine-moon.json",
+      "./themes/rose-pine-main.json"
+    ]
+  },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/node": "^20.11.5",
