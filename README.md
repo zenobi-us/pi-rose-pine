@@ -24,7 +24,7 @@ All three official Rose Pine variants are now available:
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
 
-- Setting up your development environment with `mise`
+- Setting up your development environment with [`mise`](https://mise.jdx.dev/)
 - Running tests and checks
 - Code style guidelines
 - Pull request process
