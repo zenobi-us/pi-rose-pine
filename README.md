@@ -4,8 +4,13 @@ Rose Pine themes for [Pi Coding Agent](https://github.com/badlogic/pi-mono).
 
 ![Rose Pine Logo](assets/rose-pine-moon.png)
 
-> [!NOTE]
-> placeholder repo until pi-mono supports extension bundles
+## Installation
+
+Install via Pi's theme manager:
+
+```sh
+pi install @zenobius/pi-rose-pine
+```
 
 ## Theme Variants
 
@@ -19,7 +24,7 @@ All three official Rose Pine variants are now available:
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
 
-- Setting up your development environment with `mise`
+- Setting up your development environment with [`mise`](https://mise.jdx.dev/)
 - Running tests and checks
 - Code style guidelines
 - Pull request process
