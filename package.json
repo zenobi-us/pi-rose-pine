@@ -1,6 +1,6 @@
 {
-  "name": "pi-rose-pine",
-  "version": "0.1.0",
+  "name": "@zenobi-us/pi-rose-pine",
+  "version": "0.0.1",
   "description": "Rose Pine themes for Pi Coding Agent",
   "author": {
     "name": "Zenobius",
@@ -11,8 +11,7 @@
     "url": "git@github.com:zenobi-us/pi-rose-pine.git"
   },
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "files": [
     "themes/rose-pine-dawn.json",
