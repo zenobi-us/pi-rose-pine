@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/zenobi-us/pi-rose-pine/compare/v0.0.1...v0.0.2) (2026-02-03)
+
+
+### Miscellaneous Chores
+
+* trigger release 0.0.2 ([ec2bf3c](https://github.com/zenobi-us/pi-rose-pine/commit/ec2bf3cae171d781c1bb65b9f1e1650c007f29df))
+
 ## 0.0.1 (2026-02-03)
 
 
