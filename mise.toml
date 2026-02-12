@@ -5,6 +5,7 @@ pkl = "0.27.2"
 semver = "3.4.0"
 usage = "2.8.0"
 hk = "1.26.0"
+"npm:prettier" = "latest"
 
 [env]
 _.path = [

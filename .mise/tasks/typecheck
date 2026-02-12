@@ -2,4 +2,5 @@
 #MISE description="Type check TypeScript files without emitting"
 #MISE sources=["src/**/*.ts", "tsconfig.json"]
 
-tsc --noEmit
+# nothing to typecheck.
+# tsc --noEmit

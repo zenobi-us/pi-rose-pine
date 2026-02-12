@@ -2,11 +2,10 @@ amends "package://github.com/jdx/hk/releases/download/v1.26.0/hk@1.26.0#/Config.
 import "package://github.com/jdx/hk/releases/download/v1.26.0/hk@1.26.0#/Builtins.pkl"
 
 local linters = new Mapping<String, Step> {
-    // eslint for TypeScript files
     ["eslint"] {
-        glob = "**/*.ts"
-        check = "eslint {{files}}"
-        fix = "eslint --fix {{files}}"
+        glob = "themes/*.json"
+        check = "prettier {{files}}"
+        fix = "prettier --write {{files}}"
     }
 
     // uses builtin prettier linter config
