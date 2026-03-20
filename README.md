@@ -9,7 +9,7 @@ Rose Pine themes for [Pi Coding Agent](https://github.com/badlogic/pi-mono).
 Install via Pi's theme manager:
 
 ```sh
-pi install @zenobius/pi-rose-pine
+pi install npm:@zenobius/pi-rose-pine
 ```
 
 ## Theme Variants
